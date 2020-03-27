@@ -1,0 +1,6 @@
+Item description : ggg
+Quantity on hand : 7
+Wholesale cost : 77
+Retail cost : 777
+Date added to inventory(YYYY/MM/DD) : 1997/07/07
+
